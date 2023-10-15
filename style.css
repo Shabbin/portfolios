@@ -22,10 +22,7 @@ section {
     margin-bottom: 20%;
 }
 
-.halfwidth {
-    width: 50%;
 
-}
 
 .widthhalf img {
 
@@ -49,11 +46,4 @@ section {
 
     background-image: url(images/Background.png);
     background-repeat: no-repeat;
-}
-
-.dream-big {
-
-    background-image: url(images/Background.png);
-    background-repeat: no-repeat;
-    background-position: right;
 }
